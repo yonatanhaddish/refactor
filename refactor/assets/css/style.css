@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*applying style to the body*/
+body {
+    background-color: #d9dcd6;
+}
+
+/*applying style to the header*/
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/*applying style to h1*/
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/*applying white color to li,a tags*/
+a { 
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*applying style to'seo' h1 on header*/
+header h1 .seo {
+    color: #d9dcd6;
+}
+
+/*applying to nav tag inside the header*/
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/*applying to the list inside ul*/
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px ;
+}
+
+/*applying style to the whole footer*/
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+/*applying font size to h2 in footer*/
+footer h2 {
+    font-size: 20px;
+}
+
+
+
+
