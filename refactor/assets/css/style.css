@@ -62,6 +62,78 @@ footer h2 {
     font-size: 20px;
 }
 
+/*hero-section*/
+.hero {
+    height: 800px;
+    width: 100%;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+
+/*float it to left*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/*float to the right*/
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*apply style to content section*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/*setting height to content section*/
+.content img {
+    max-height: 200px;
+}
+
+/*setting style to h2 content section*/
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #fff;
+}
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #fff;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #fff;
+}
+
+
+
+
+
+
 
 
 
