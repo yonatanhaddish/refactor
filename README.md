@@ -26,3 +26,6 @@ created a section for hero, incase any programmer wants to add some features int
 
 # comment
 the "benefit" sections looks bigger on my external screen monitor (24 inch) while smaller on my laptop (13 inch).
+
+# Horieson
+i added a link to the h1 Horiseon to its self
